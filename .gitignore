@@ -1,0 +1,7 @@
+/node_modules
+.env
+.env
+dist
+
+req.http
+package-lock.json
